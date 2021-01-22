@@ -13,7 +13,7 @@ public class MyEchoClient {
 
     public static void main(String[] args) throws IOException {
 
-	    String version = new String( "MyEchoClient - Version 1.0.0" );
+	    String version = new String( "MyEchoClient - Version 1.1.0" );
 	
         int myPort = 10080;
         String serverHostname = new String("127.0.0.1");
